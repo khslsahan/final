@@ -4,6 +4,7 @@
 <header>Login World </header>
 <div>
     <Header />
+    <h1>SAhan Lakshitha </h1>
     <img id="bgimage" src="../assets/login.jpg">
     <Footer />
 
